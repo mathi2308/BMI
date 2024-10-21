@@ -9,9 +9,11 @@ Used Technologies:
 HTML5
 CSS3
 JavaScript
+
 Steps to Use:
 Download or clone the repository
 git clone https://github.com/mathi2308/BMI.git
+
 Go to the directory
 Run the index.html file
 Start Calculatings!
